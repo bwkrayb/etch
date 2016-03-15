@@ -1,0 +1,15 @@
+#whole {
+	height:800px;
+	width:800px;
+	margin: 90px auto;
+}
+
+#awesome {
+	margin: 10px auto;
+}
+
+.square {
+	display:inline-block;
+	margin:auto;
+	padding:0;
+}
